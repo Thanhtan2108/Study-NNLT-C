@@ -7,13 +7,13 @@
     muốn sử dụng hàm thì cần phải có lời gọi hàm gọi hàm đó để sử dụng
     hàm khi gặp lệnh return nghĩa là kết thúc hàm 
     
-2. biến được truền vào hàm đgl tham số, biến được truyền vào trong lời gọi hàm được gọi là đối số
+2. biến được truyền vào hàm đgl tham số, biến được truyền vào trong lời gọi hàm được gọi là đối số
 
 3. số lượng và kiểu dữ liệu của tham số và đối số phải giống nhau và đúng thứ tự truyền vào
 
-4. Truyền tham chiếu là truyền giá trị của đối số cho tham số và trong hàm dùng giá trị của tham số để tính toán, nó ko làm thay đổi giá trị của đối số sau khi hàm kết thúc
+4. Truyền tham trị là truyền giá trị của đối số cho tham số và trong hàm dùng giá trị của tham số để tính toán, nó ko làm thay đổi giá trị của đối số sau khi hàm kết thúc
 
-5. Truyền tham trị là truyền địa chỉ của đối số cho tham số, lúc này tham số sẽ quản lý giá trị của đối số và thực hiện tính toán trong hàm, nó sẽ làm thay đổi giá trị của đối số sau khi hàm kết thúc
+5. Truyền tham chiếu là truyền địa chỉ của đối số cho tham số, lúc này tham số sẽ quản lý giá trị của đối số và thực hiện tính toán trong hàm, nó sẽ làm thay đổi giá trị của đối số sau khi hàm kết thúc
 
 6. các hàm có thể gọi lại lẫn nhau, hàm được gọi phải xây dựng trước hàm gọi, nếu hàm được gọi xây dựng sau hàm gọi sẽ có lỗi
 

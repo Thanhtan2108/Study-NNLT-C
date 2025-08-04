@@ -11,7 +11,9 @@ Muốn lưu các phần tử có cùng kiểu dữ luệ thì có thể tóm g�
 3. Muốn in ra giá trị 1 phần tử trong mảng
     printf("đặt_tả_của_phần_tử_cần_in", tên_mảng[thứ_tự_phần_tử_cần_in_trong_mảng]);
 
-4. Viết hàm truyền tham số là mảng thì sẽ thực hiện theo kiểu truyền tham trị
+4. Viết hàm truyền tham số là mảng thì sẽ thực hiện theo kiểu truyền tham chiếu
+
+5. Nếu khai báo 1 mảng có số lượng phần tử quá lớn dẫn đến lỗi tràn bộ nhớ heap, cách giải quyết là khai báo mảng đó bên ngoài hàm main()
 */
 
 #include <stdio.h>
