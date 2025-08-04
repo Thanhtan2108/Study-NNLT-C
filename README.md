@@ -46,8 +46,21 @@ Repository này chứa các bài học cơ bản về ngôn ngữ lập trình C
    - Các thao tác với mảng 1 chiều
 
 9. [Mảng 2 chiều](./Toturial/9_Mang_2_Chieu.c)
+
    - Khai báo và khởi tạo mảng 2 chiều
    - Các thao tác với mảng 2 chiều
+
+10. [Con trỏ trong C](./Toturial/10_Con_Tro_Trong_C.c)
+
+    - Khái niệm về con trỏ
+    - Cách sử dụng con trỏ
+    - Con trỏ và mảng
+
+11. [Kiểu dữ liệu tự định nghĩa - Struct](./Toturial/11_Kieu_Du_Lieu_Tu_Dinh_Nghia_Struct.c)
+
+    - Định nghĩa struct
+    - Khai báo và sử dụng struct
+    - Struct lồng nhau
 
 ## Cách sử dụng
 
@@ -76,4 +89,10 @@ Nếu bạn muốn đóng góp vào dự án, hãy tạo pull request hoặc bá
 
 ## Giấy phép
 
-Repository này được phân phối dưới giấy phép MIT. Xem file `LICENSE` để biết thêm chi tiết.
+Repository này được phân phối dưới [giấy phép MIT](./LICENSE). Giấy phép này cho phép bạn tự do:
+
+- Sử dụng mã nguồn cho mục đích cá nhân và thương mại
+- Sửa đổi mã nguồn theo nhu cầu
+- Phân phối lại mã nguồn
+
+Với điều kiện bạn phải giữ nguyên thông báo bản quyền và giấy phép khi phân phối lại.
