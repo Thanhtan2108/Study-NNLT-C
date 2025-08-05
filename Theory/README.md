@@ -62,6 +62,12 @@ Repository này chứa các bài học cơ bản về ngôn ngữ lập trình C
     - Khai báo và sử dụng struct
     - Struct lồng nhau
 
+12. [Con trỏ hàm](./Toturial/12_Con_Tro_Ham.c)
+
+    - Khái niệm con trỏ hàm
+    - Khai báo và sử dụng con trỏ hàm và mảng con trỏ hàm
+    - Ứng dụng của con trỏ hàm và mảng con trỏ hàm
+
 ## Cách sử dụng
 
 Clone repository này về máy local:
